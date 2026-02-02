@@ -1,2 +1,2 @@
 # LeetCode-Practice
-Practicing Leetcode questions in Java
+Practicing Leetcode questions in Java!
