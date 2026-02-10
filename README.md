@@ -28,4 +28,12 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [3952-trionic-array-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/3952-trionic-array-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
