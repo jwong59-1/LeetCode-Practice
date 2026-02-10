@@ -1,5 +1,9 @@
 # LeetCode-Practice
-Practicing Leetcode questions in Java!
+Practicing Leetcode questions in Java as a MSCS student!
+
+## Purpose
+This repository is supplemental practice for my current Algorithms class this semester.  
+I will be solving problems where the approaches have been covered in class.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
