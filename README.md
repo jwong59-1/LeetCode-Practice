@@ -48,22 +48,26 @@ I will be solving problems where the approaches have been covered in class.
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
