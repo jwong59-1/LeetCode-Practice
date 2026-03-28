@@ -59,6 +59,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -66,6 +67,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,4 +81,12 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
