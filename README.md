@@ -89,4 +89,5 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
+| [1916-find-center-of-star-graph](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
