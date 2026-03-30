@@ -27,6 +27,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Array
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [3952-trionic-array-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/3952-trionic-array-i) |
 ## Stack
 |  |
@@ -89,5 +90,10 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
+| [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1916-find-center-of-star-graph) |
+## Hash Table
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
