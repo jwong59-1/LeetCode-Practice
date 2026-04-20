@@ -63,6 +63,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
+| [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +95,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1916-find-center-of-star-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +128,8 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
