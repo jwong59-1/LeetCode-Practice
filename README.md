@@ -141,6 +141,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Greedy
 |  |
@@ -153,5 +154,6 @@ I will be solving problems where the approaches have been covered in class.
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
