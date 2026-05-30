@@ -24,12 +24,14 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
