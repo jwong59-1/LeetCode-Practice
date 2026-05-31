@@ -33,6 +33,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -180,5 +181,6 @@ I will be solving problems where the approaches have been covered in class.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
