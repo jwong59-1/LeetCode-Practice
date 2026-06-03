@@ -10,15 +10,12 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-       ListNode curr = head;
-       ListNode prev = null;
+       //base case
+       if (head == null || head.next == null) {return head;}
 
-       while (curr != null) {
-            ListNode tmp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = tmp;
-       }
-       return prev;
+       ListNode tmp = reverseList(head.next);
+       head.next.next = head;
+       head.next = null;
+       return tmp;
     }
 }
