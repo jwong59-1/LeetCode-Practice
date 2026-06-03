@@ -10,27 +10,15 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        //keep track of the current link list node 
-        ListNode curr = head;
-        //track the previous node after reversing the LL pointer
-        ListNode prev = null;
-        //iterate through the linked list
-        while (curr != null) {
-            /*
-            store the next node (for the reverse operation)
-            Note: need temporarily store the next node, as reversing 
-            the pointer breaks off the connection from the curr node to
-            the next node.
-            */
-            ListNode temp = curr.next;
-            //Set the curr nodes's next pointer as the previous node
+       ListNode curr = head;
+       ListNode prev = null;
+
+       while (curr != null) {
+            ListNode tmp = curr.next;
             curr.next = prev;
-            //for next iteration:
-            //set the prev node as the curr node
             prev = curr;
-            //set curr as the next node
-            curr = temp;
-        }
-        return prev; //we return the start of the reversed linked list
+            curr = tmp;
+       }
+       return prev;
     }
 }
