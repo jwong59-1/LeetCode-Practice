@@ -160,6 +160,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Greedy
 |  |
@@ -190,4 +191,12 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0724-find-pivot-index](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
