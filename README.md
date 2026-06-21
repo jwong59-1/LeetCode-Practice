@@ -176,6 +176,7 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -186,6 +187,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
