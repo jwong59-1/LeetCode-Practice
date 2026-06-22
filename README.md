@@ -62,6 +62,7 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0649-dota2-senate) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
@@ -177,6 +179,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0649-dota2-senate](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
