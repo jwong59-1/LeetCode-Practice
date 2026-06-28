@@ -14,6 +14,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0021-merge-two-sorted-lists](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
