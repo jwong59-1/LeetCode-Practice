@@ -34,6 +34,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -141,16 +142,19 @@ I will be solving problems where the approaches have been covered in class.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -221,4 +225,8 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
