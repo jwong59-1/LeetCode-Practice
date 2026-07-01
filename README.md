@@ -139,6 +139,7 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +152,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +174,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 ## Union-Find
 |  |
 | ------- |
@@ -199,6 +202,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0649-dota2-senate](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
