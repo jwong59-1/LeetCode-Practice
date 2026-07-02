@@ -85,6 +85,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0104-maximum-depth-of-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
@@ -99,6 +100,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0104-maximum-depth-of-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
@@ -129,6 +131,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
@@ -178,6 +181,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
 |  |
