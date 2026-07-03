@@ -30,6 +30,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0908-middle-of-the-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3952-trionic-array-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/3952-trionic-array-i) |
 ## Stack
 |  |
@@ -124,6 +126,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +159,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
