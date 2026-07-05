@@ -62,6 +62,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0155-min-stack](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -146,6 +147,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -241,4 +244,8 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
