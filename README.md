@@ -80,6 +80,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -94,6 +95,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0871-keys-and-rooms](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -107,6 +109,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0813-all-paths-from-source-to-target](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -120,6 +123,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
