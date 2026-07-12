@@ -42,6 +42,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0605-can-place-flowers](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0155-min-stack](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -226,6 +228,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
