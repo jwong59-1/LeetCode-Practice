@@ -21,6 +21,7 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0155-min-stack](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
@@ -219,6 +221,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
