@@ -44,6 +44,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -62,6 +63,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0232-implement-queue-using-stacks](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -267,4 +269,8 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
