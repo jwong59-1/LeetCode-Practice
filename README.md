@@ -51,6 +51,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3952-trionic-array-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/3952-trionic-array-i) |
 ## Stack
@@ -118,6 +119,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0871-keys-and-rooms](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2793-count-the-number-of-complete-components](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -261,4 +263,8 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
+## Matrix
+|  |
+| ------- |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
