@@ -40,6 +40,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0225-implement-stack-using-queues](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -159,6 +161,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
@@ -272,5 +275,6 @@ I will be solving problems where the approaches have been covered in class.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
