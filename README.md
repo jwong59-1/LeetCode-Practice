@@ -87,6 +87,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
@@ -100,6 +101,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
@@ -131,6 +133,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0101-symmetric-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0783-search-in-a-binary-search-tree) |
