@@ -29,6 +29,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -232,6 +233,7 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
