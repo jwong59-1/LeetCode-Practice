@@ -31,6 +31,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -53,6 +54,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -169,6 +171,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
@@ -183,6 +186,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0948-sort-an-array](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
