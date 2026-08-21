@@ -1,17 +1,26 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        //create hashmap to count pairs
-        HashMap<Integer,Integer> map = new HashMap<>();
+        //two pointer
+        //sort first
+        Arrays.sort(nums);
         int count = 0;
-        //iterate through, match the pairs
-        for (int i = 0; i < nums.length; i++) {
-            if (map.get(k-nums[i]) !=null && map.get(k-nums[i]) >= 1) {
+        int i = 0, j = nums.length-1;
+
+        while (i < j ){
+            int sum = nums[i] + nums[j];
+            if (k == sum) {
                 count++;
-                //decrement
-                map.put(k-nums[i],map.get(k-nums[i])-1);
-            } else {
-                map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+                i++;
+                j--;
             }
+            //sum too big
+            else if (k < sum) {
+                j--;
+            //sum too small
+            } else {
+                i++;
+            }
+
         }
         return count;
     }
