@@ -1,24 +1,25 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        //track number of zeros
-        int numZeros = 0,ans = 0,curr = 0;
-        //l/r pointers
-        int l = 0, r = 0;
-
-        for (int i = 0 ; i < nums.length; i++) {
-            if (nums[i] == 0) {
-                if (numZeros == 1) {
-                    ans = Math.max(curr,ans);
-                    curr -= (r-l);
-                    l = r+1;
+        int l = 0, r = 0,numZeros=0,ans = 0,curr = 0;
+        while (r < nums.length) {
+            if (nums[r] == 0) {
+                numZeros++;
+                while (numZeros > 1) {
+                    if (nums[l] == 0) {
+                        numZeros--;
+                    } 
+                    else {
+                        curr--;
+                    }
+                    l++;
+                    }
                 }
-                numZeros = 1;
-                r = i;
-            } else {
-                curr++;
+                else {
+                    curr++;
+                    ans = Math.max(curr,ans);
+                }
+                r++;
             }
+            return (numZeros == 0) ? ans - 1 : ans;
         }
-        ans = Math.max(curr,ans);
-        return (numZeros == 0) ? ans-1: ans;
     }
-}
