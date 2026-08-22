@@ -53,6 +53,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1046-max-consecutive-ones-iii](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
@@ -255,6 +256,7 @@ I will be solving problems where the approaches have been covered in class.
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +267,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
