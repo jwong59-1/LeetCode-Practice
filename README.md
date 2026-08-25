@@ -59,6 +59,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1833-find-the-highest-altitude](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2428-equal-row-and-column-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 | [3952-trionic-array-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/3952-trionic-array-i) |
 ## Stack
 |  |
@@ -174,6 +175,7 @@ I will be solving problems where the approaches have been covered in class.
 | [1777-determine-if-two-strings-are-close](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2413-smallest-number-in-infinite-set) |
+| [2428-equal-row-and-column-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +251,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -284,6 +287,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2428-equal-row-and-column-pairs](https://github.com/jwong59-1/LeetCode-Practice/tree/master/2428-equal-row-and-column-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
