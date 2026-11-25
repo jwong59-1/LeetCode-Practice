@@ -25,6 +25,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0283-move-zeroes) |
@@ -240,6 +241,7 @@ I will be solving problems where the approaches have been covered in class.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -272,6 +274,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [1236-n-th-tribonacci-number](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -296,4 +299,8 @@ I will be solving problems where the approaches have been covered in class.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
