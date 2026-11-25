@@ -169,6 +169,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [1039-find-the-town-judge](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -238,6 +239,7 @@ I will be solving problems where the approaches have been covered in class.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -256,6 +258,7 @@ I will be solving problems where the approaches have been covered in class.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/jwong59-1/LeetCode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jwong59-1/LeetCode-Practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
