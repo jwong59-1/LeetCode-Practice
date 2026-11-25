@@ -11,7 +11,7 @@ class Solution:
         best = 0
         longest = 1
         for i in range(n-2,-1,-1):
-            for j in range(0,n):
+            for j in range(i,n):
                 if s[i] == s[j]:
                     if opt[i+1][j-1] == j - i - 1:
                         opt[i][j] = j - i + 1
